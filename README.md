@@ -5,14 +5,12 @@ This repository contains machine learning laboratory exercises implemented in Py
 ## Contents
 
 - `Activity_1.ipynb`: Linear, Ridge, and Lasso regression with error evaluation.
-- `Activity_2.ipynb`: Banknote authentication using logistic regression, exploratory data analysis, and classification metrics.
 - `lab_1.ipynb`: Data loading, cleaning, and exploratory analysis.
 - `lab_2.ipynb`: Decision tree classification and evaluation.
 - `lab_3.ipynb`: Linear regression exercises using external datasets.
 - `lab_4.ipynb`: Additional linear regression and error analysis exercises.
 - `lab_5.ipynb`: Regression with preprocessing and model evaluation.
 - `lab_6.ipynb`: Linear, Ridge, and Lasso regression comparison.
-- `Activity_2_Report.pdf`: Supporting report for Activity 2.
 
 ## Requirements
 
@@ -48,7 +46,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 3. Open a notebook and run its cells in order.
 
 Some laboratory notebooks refer to datasets stored outside the repository, including `mydata.csv`, `dataset.csv`, and `dataset_csv.csv`. Place the required files in the notebook's working directory before running those exercises.
-
-## Data Source
-
-The banknote authentication exercise downloads the Banknote Authentication dataset from the UCI Machine Learning Repository.
